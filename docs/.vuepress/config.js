@@ -21,8 +21,8 @@ module.exports = {
     ['link', { rel: 'icon', href: "/favicon.ico" }]
     ],
     themeConfig : {
-        repo: 'nuls-io/devsite/',
-        editLinks: true,
+        repo: 'Altoro-ATR/docsite/',
+        editLinks: false,
         docsDir: 'docs',
         docsBranch: 'master',
         sidebarDepth: 2,
@@ -43,7 +43,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                             '',
-                            '',
+                            'g_quickstart',
                             ]
                         }
                     ],
@@ -53,6 +53,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                              "",
+                             'g_quickstart',
                             ]
                         },
                         {   
@@ -60,6 +61,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                             '',
+                            'g_quickstart',
                             ]
                         },
                         {
@@ -67,6 +69,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                             '',
+                            'g_quickstart',
                             ]
                         },
                         {
@@ -74,6 +77,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                             '',
+                            'g_quickstart',
                             ]
                         }
                     ]
@@ -96,7 +100,8 @@ module.exports = {
                             title: '操作指南',
                             collapsable:false,
                             children: [
-                            '',
+                                '',
+                                'g_quickstart',
                             ]
                         }
                     ],
@@ -106,6 +111,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                              "",
+                             'g_quickstart',
                             ]
                         },
                         {   
@@ -113,6 +119,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                             '',
+                            'g_quickstart',
                             ]
                         },
                         {
@@ -120,6 +127,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                             '',
+                            'g_quickstart',
                             ]
                         },
                         {
@@ -127,6 +135,7 @@ module.exports = {
                             collapsable:false,
                             children: [
                             '',
+                            'g_quickstart',
                             ]
                         }
                     ]
