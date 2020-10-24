@@ -15,6 +15,6 @@ $ npm run dev
 Generate:
 
 ```bash
-$ npm run build
+$ npm run build               
 ```
 
