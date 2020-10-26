@@ -43,43 +43,46 @@ module.exports = {
                             collapsable:false,
                             children: [
                             '',
-                            'g_quickstart',
+                            'altorodeal',
+                            'dajiannode',
+                            'wallte',
                             ]
                         }
                     ],
                     "/Docs/":[
                         {   
-                            title: 'Module Design',
+                            title: 'Development Manual',
                             collapsable:false,
                             children: [
                              "",
-                             'g_quickstart',
+                             'userabout',
+                             'supernode',
                             ]
                         },
-                        {   
-                            title: 'Interface',
-                            collapsable:false,
-                            children: [
-                            '',
-                            'g_quickstart',
-                            ]
-                        },
-                        {
-                            title: 'ChainBox',
-                            collapsable:false,
-                            children: [
-                            '',
-                            'g_quickstart',
-                            ]
-                        },
-                        {
-                            title: 'Smart Contract',
-                            collapsable:false,
-                            children: [
-                            '',
-                            'g_quickstart',
-                            ]
-                        }
+                        // {   
+                        //     title: 'Interface',
+                        //     collapsable:false,
+                        //     children: [
+                        //     '',
+                        //     'g_quickstart',
+                        //     ]
+                        // },
+                        // {
+                        //     title: 'ChainBox',
+                        //     collapsable:false,
+                        //     children: [
+                        //     '',
+                        //     'g_quickstart',
+                        //     ]
+                        // },
+                        // {
+                        //     title: 'Smart Contract',
+                        //     collapsable:false,
+                        //     children: [
+                        //     '',
+                        //     'g_quickstart',
+                        //     ]
+                        // }
                     ]
                 }
             },
@@ -101,7 +104,9 @@ module.exports = {
                             collapsable:false,
                             children: [
                                 '',
-                                'g_quickstart',
+                                'altorodeal',
+                                'dajiannode',
+                                'wallte',
                             ]
                         }
                     ],
@@ -111,33 +116,34 @@ module.exports = {
                             collapsable:false,
                             children: [
                              "",
-                             'g_quickstart',
+                             'userabout',
+                             'supernode',
                             ]
                         },
-                        {   
-                            title: '接口文档',
-                            collapsable:false,
-                            children: [
-                            '',
-                            'g_quickstart',
-                            ]
-                        },
-                        {
-                            title: 'ChainBox',
-                            collapsable:false,
-                            children: [
-                            '',
-                            'g_quickstart',
-                            ]
-                        },
-                        {
-                            title: '智能合约',
-                            collapsable:false,
-                            children: [
-                            '',
-                            'g_quickstart',
-                            ]
-                        }
+                        // {   
+                        //     title: '接口文档',
+                        //     collapsable:false,
+                        //     children: [
+                        //     '',
+                        //     'g_quickstart',
+                        //     ]
+                        // },
+                        // {
+                        //     title: 'ChainBox',
+                        //     collapsable:false,
+                        //     children: [
+                        //     '',
+                        //     'g_quickstart',
+                        //     ]
+                        // },
+                        // {
+                        //     title: '智能合约',
+                        //     collapsable:false,
+                        //     children: [
+                        //     '',
+                        //     'g_quickstart',
+                        //     ]
+                        // }
                     ]
                 }
             }

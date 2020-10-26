@@ -1,0 +1,12 @@
+# Altoro Agreement
+xxxxxxxxx
+## Account
+ConcentConcentConcentConcentConcentConcentConcent
+## Bookkeeping Node
+ConcentConcentConcentConcentConcentConcentConcent
+## Entrusted Node
+ConcentConcentConcentConcentConcentConcentConcent
+## Transaction
+ConcentConcentConcentConcentConcentConcentConcent
+## ATR
+ConcentConcentConcentConcentConcentConcentConcent 

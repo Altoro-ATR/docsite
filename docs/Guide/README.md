@@ -1,14 +1,6 @@
-# 一级标题-第一个md文件
-这一页是必须要有的`README.md`文件  相当于`index.html`
-## 二级标题1
-内容内容内容内容内容内容内容
-### 三级标题1
-内容内容内容内容内容内容内容
-### 三级标题2
-内容内容内容内容内容内容内容
-## 二级标题2
-内容内容内容内容内容内容内容
-### 三级标题1
-内容内容内容内容内容内容内容
-### 三级标题2
-内容内容内容内容内容内容内容
+# Introduction
+xxxxxxxxx
+## Introduction to the public chain
+ConcentConcentConcentConcentConcentConcentConcent
+## Smart contract
+ConcentConcentConcentConcentConcentConcentConcent
