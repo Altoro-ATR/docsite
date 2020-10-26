@@ -18,7 +18,7 @@ module.exports = {
         }
     },
     head:[
-    ['link', { rel: 'icon', href: "/favicon.ico" }]
+        ['link', { rel: 'icon', href: "/favicon.ico" }]
     ],
     themeConfig : {
         repo: 'Altoro-ATR/docsite/',
