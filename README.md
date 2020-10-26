@@ -3,7 +3,7 @@ Install dependencies:
 ```bash
 $ git clone https://github.com/Altoro-ATR/docsite.git
 $ cd docsite
-$ npm install
+$ cnpm install
 ```
 
 Run server:
